@@ -13,7 +13,7 @@ maxRetries: 1
 concurrency: 1
 
 mergeArtifacts: true
-jobLabel: [ '${DATE} - ${DAY}', 'HE-ATX']
+jobLabel: [ '${DATE} - ${DAY}', 'HE-ATX_FTD']
 
 cacheKey: '{{ checksum "requirements.txt" }}'
 cacheDirectories:
@@ -24,6 +24,6 @@ pre:
 testDiscovery:
   type: raw
   mode: dynamic
-  command: grep -nri 'class' tests -ir --include=\*.py | sed 's/:.*//' | uniq
+  command: grep -nri 'class' tests -ir --include='v*.py' | sed 's/:.*//' | uniq
 
-testRunnerCommand: python3 $test
+testRunnerCommand: python3 $test --caps_json 'tests/capsV3.json'
