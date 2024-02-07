@@ -1,0 +1,128 @@
+[
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    },
+    {
+        "browserName": "Chrome",
+        "browserVersion": "latest-2",
+        "console": "true",
+        "network": "true",
+        "selenium_version": "4.8.0",
+        "platformName": "win10",
+        "resolution": "1920x1080" 
+    }
+]
