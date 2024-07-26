@@ -27,3 +27,6 @@ testDiscovery:
   command: grep -nri 'class' tests -ir --include='v*.py' | sed 's/:.*//' | uniq
 
 testRunnerCommand: python3 $test --caps_json 'tests/capsV3.json'
+
+# To run test in HYE prod beta. use win10
+# debug: true
