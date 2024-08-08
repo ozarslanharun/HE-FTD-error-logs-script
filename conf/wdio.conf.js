@@ -32,7 +32,9 @@ exports.config = {
     ]
   ],
   user: process.env.LT_USERNAME,
+  //  user: "lambdatestdemo",
   key: process.env.LT_ACCESS_KEY,
+  // key: "0H7V3MMGoZeafPIJTySEvJR5V4hKuWsJXtGOJ2cuT96YLt7jhu",
   buildName: process.env.LT_BUILD_NAME,
   specs: ["../tests/specs/ATXtest.js"],
   exclude: [],
@@ -49,6 +51,7 @@ exports.config = {
       // build: "Test Case Insights ATX n=20, 60 testcases try2",
       visual: true,
       tags: ["ATX-testCaseInsights"],
+      buildTags:["hyperexecute_testCase_build_tag"],
       console: true,
       network: true,
       platformName: process.env.HYPEREXECUTE_PLATFORM || 'windows 10'  
