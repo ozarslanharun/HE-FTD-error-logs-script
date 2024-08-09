@@ -49,7 +49,6 @@ exports.config = {
       // build: "Test Case Insights ATX n=20, 60 testcases try2",
       visual: true,
       tags: ["ATX-testCaseInsights"],
-      buildTags:["hyperexecute_testCase_build_tag"],
       console: true,
       network: true,
       platformName: process.env.HYPEREXECUTE_PLATFORM || 'windows 10'  
